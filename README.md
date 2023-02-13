@@ -1,16 +1,15 @@
 <!-- PROJECT LOGO -->
 <br />
+ <div align="right">
+ <a href="https://github.com/AMM93/ChatGPTPython_Intro">
+   <a href="https://github.com/AMM93/ChatGPTPython_Intro">
+   <img src="images/Foto_perfilred.png" alt="Logo" width="120" height="120">
+ </a>
 <div align="center">
   <a href="https://github.com/AMM93/ChatGPTPython_Intro">
     <img src="images/logo_chatgpt.png" alt="Logo" width="120" height="80">
   </a>
   
-  <div align="right">
-  <a href="https://github.com/AMM93/ChatGPTPython_Intro">
-    <a href="https://github.com/AMM93/ChatGPTPython_Intro">
-    <img src="images/Foto_perfilred.png" alt="Logo" width="120" height="120">
-  </a>
-
   <h3 align="center">Intro ChatGPT Chatbot Template</h3>
 
   <p align="center">
