@@ -16,15 +16,6 @@
 
   <p align="center">
     A very basic template to create your first Chatbot using GPT!
-    <br />
-    <a href="https://github.com/AMM93/ChatGPTPython_Intro"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/AMM93/ChatGPTPython_Intro">View Demo</a>
-    ·
-    <a href="https://github.com/AMM93/ChatGPTPython_Introissues">Report Bug</a>
-    ·
-    <a href="https://github.com/AMM93/ChatGPTPython_Intro">Request Feature</a>
   </p>
 </div>
 
