@@ -8,7 +8,7 @@
     <img{
           border-radius: 50%;
          }
-          src="images/Foto_perfil.jpeg" alt="Logo" width="120" height="120">
+          src="images/Foto_perfilred.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Intro ChatGPT Chatbot Template</h3>
