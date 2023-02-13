@@ -4,6 +4,9 @@
   <a href="https://github.com/AMM93/ChatGPTPython_Intro">
     <img src="images/logo_chatgpt.png" alt="Logo" width="120" height="80">
   </a>
+  
+  <div align="center">
+  <a href="https://github.com/AMM93/ChatGPTPython_Intro">
     <a href="https://github.com/AMM93/ChatGPTPython_Intro">
     <img src="images/Foto_perfilred.png" alt="Logo" width="120" height="120">
   </a>
