@@ -9,7 +9,9 @@
   <a href="https://github.com/AMM93/ChatGPTPython_Intro">
     <img src="images/logo_chatgpt.png" alt="Logo" width="120" height="80">
   </a>
+ </div>
   
+  <!-- ABOUT THE SCRIPT -->
   <h3 align="center">Intro ChatGPT Chatbot Template</h3>
 
   <p align="center">
