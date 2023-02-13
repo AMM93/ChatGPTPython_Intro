@@ -28,8 +28,8 @@
 This will be an introduction to more complex scripts for OpenAI using Python
 
 * 1. Register in OpenAI
-* Get an API 
-* Insert the API in code and start chatting with your personal AI!
+* 2. Get an API 
+* 3. Insert the API in code and start chatting with your personal AI!
 
 
 
