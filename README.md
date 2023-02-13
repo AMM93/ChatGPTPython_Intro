@@ -36,7 +36,7 @@ This will be an introduction to more complex scripts for OpenAI using Python
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -47,5 +47,5 @@ Antonio Moreno Martín - ant.moreno.martin@gmail.com
 
 Project Link: [https://github.com/AMM93/ChatGPTPython_Intro)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
